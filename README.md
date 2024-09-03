@@ -6,7 +6,8 @@
 
 ### Work Experience
 2023 - 24: Teacher at Ørsta VGS
-- Subjects: Math and Science
+- Subjects: Math and Science <br>
+
 2022 - 23: Contact teacher for 8th grade at Volda Ungdomsskule
 - Subjects: Math, Science and English
 
