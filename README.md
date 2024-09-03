@@ -1,8 +1,8 @@
 # Data Scientist
 
 ### Education
-- B.S., Data Engineering | NTNU Ålesund (_2027_) <br>
-- M.Ed., Education | Høgskulen i Volda (_2022_)
+- [B.S., Data Engineering / NTNU, Ålesund (_2027_)] (https://www.ntnu.no/studier/bidata) <br>
+- [M.Ed., Education / Høgskulen i Volda (_2022_)] (https://www.hivolda.no/studietilbod/grunnskulelaerarutdanning-5-10-trinn/haust)
 
 ### Work Experience
 
