@@ -11,8 +11,9 @@
 #### Ongoing Projects
 Linux
 - _Developer-Friendly Environment_
-  - Comes pre-installed with dev tools like Python, Git and supports various IDEs and text editors
-  - Built on Ubuntu, benefits from a vast amount of rescources and community support. I have a wide array of development tools and libraries (i.e. Pandas, NumPy, SciPy, Docker, TensorFlow, Apache, Spark).
+  - _Out-of-the-Box Tools_: Comes pre-installed with dev tools like Python, Git and supports various IDEs and text editors
+  - _Built on Ubuntu_, benefits from a vast amount of rescources and community support. I have a wide array of development tools and libraries (i.e. Pandas, NumPy, SciPy, Docker, TensorFlow, Apache, Spark).
 
 - Efficient Resource Management
-- - 
+  - _Optimized for Performance_: Pop! OS is designed to be efficient and lightweight, allowing resource-intensive applications like big data processing frameworks (Apache Spark and Hadoop)
+  - _Automatic Tiling_: The desktop environment offers automatic tiling feature that can help multitask effectively, especially when working with multiple terminal windows, coding environments, data visualization tools and browers tabs simultaneously.
