@@ -1,8 +1,8 @@
 # Data Scientist
 
 ### Education
-Data Engineering, B.Sc (2027) <br>
-Education, MA (2022)
+- B.S., Data Engineering | NTNU Ålesund (_2027_) <br>
+- M.Ed., Education | Høgskulen i Volda (_2022_)
 
 ### Work Experience
 
