@@ -1,10 +1,14 @@
 # Data Scientist
 
 ### Education
-- B.S., Data Engineering / [NTNU, Ålesund _2027_] (https://www.ntnu.no/studier/bidata) <br>
-- M.Ed., Education / [Høgskulen i Volda _2022_] (https://www.hivolda.no/studietilbod/grunnskulelaerarutdanning-5-10-trinn/haust)
+- B.S., Data Engineering / NTNU, Ålesund _2027_  <br>
+- M.Ed., Education / Høgskulen i Volda _2022_
 
 ### Work Experience
+2023 - 24: Teacher at Ørsta VGS
+- Subjects: Math and Science
+2022 - 23: Contact teacher for 8th grade at Volda Ungdomsskule
+- Subjects: Math, Science and English
 
 ### Projects
 
