@@ -14,6 +14,8 @@
 ### Projects
 
 #### Ongoing Projects
+Currently working on math functions for CLI, currently closed but might open repository at a later point.
+
 Linux
 - Industry Standard for development and deployment
   - _Widely used in Servers and Cloud environments_
