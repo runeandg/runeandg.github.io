@@ -19,7 +19,7 @@
 
 
 
-Currently dabbling w Linux
+Linux
 - Industry Standard for development and deployment
   - _Widely used in Servers and Cloud environments_
   - _DevOps and CI/CD_
