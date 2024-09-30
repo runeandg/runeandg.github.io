@@ -17,7 +17,8 @@
 School projects: Currently working on two different school projects. One for [Computer Architecture](https://github.com/runeandg/school_projects/tree/main/computer_architecture) and one for [First Lego League](https://github.com/runeandg/school_projects/tree/main/FLL)
 
 
-Linux
+
+Currently dabbling w Linux
 - Industry Standard for development and deployment
   - _Widely used in Servers and Cloud environments_
   - _DevOps and CI/CD_
@@ -29,8 +30,3 @@ Linux
 - Open-Source Ecosystem and Community Support
   - _Access to a Vast Range of Open-Source Tools_
   - _Learning and Contribution Opportunities_
-
-VIM
-- Increased Productivity and Efficiency
-  - _Keyboard-Driven Editing_
-  - _Powerful Text Manipulation Commands_
