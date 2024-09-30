@@ -14,7 +14,8 @@
 ### Projects
 
 #### Ongoing Projects
-School projects: Currently working on two different school projects. One for [Computer Architecture](https://github.com/runeandg/school_projects/tree/main/computer_architecture) and one for [First Lego League](https://github.com/runeandg/school_projects/tree/main/FLL)
+[Computer Architecture](https://github.com/runeandg/school_projects/tree/main/computer_architecture) with focus on RAID, what it is and how it is set up. <br>
+[First Lego League](https://github.com/runeandg/school_projects/tree/main/FLL) with task analysis, primarily used to model workflow.
 
 
 
