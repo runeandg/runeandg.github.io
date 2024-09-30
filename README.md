@@ -14,7 +14,8 @@
 ### Projects
 
 #### Ongoing Projects
-Currently working on math functions for CLI, currently closed but might open repository at a later point.
+School projects: Currently working on two different school projects. One for [Computer Architecture](https://github.com/runeandg/school_projects/tree/main/computer_architecture) and one for [First Lego League](https://github.com/runeandg/school_projects/tree/main/FLL)
+
 
 Linux
 - Industry Standard for development and deployment
