@@ -16,6 +16,7 @@
 #### Ongoing Projects
 [Computer Architecture](https://github.com/runeandg/school_projects/tree/main/computer_architecture) with focus on RAID, what it is and how it is set up. <br>
 [First Lego League](https://github.com/runeandg/school_projects/tree/main/FLL) with task analysis, primarily used to model workflow. <br>
+[Programming tasks](https://github.com/runeandg/school_projects/tree/main/IDATA1003), dump of assignments and tasks done related to  IDATA1003. <br>
 
 
 
